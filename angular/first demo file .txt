@@ -1,2 +1,2 @@
 hai this is veeresh.
-from ymg..../..
+from ymg.
